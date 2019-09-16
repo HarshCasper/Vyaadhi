@@ -1,5 +1,6 @@
-# CodingClub_Hackathon
-This is the Hackathon Project that has been developed for the Sathyabama Hacks for Coding Club-Season3 Hackathon.
+# Vyaadhi
+
+This repository consists of the various Jupyter Notebooks that were written to perform analysis on the different Open-Source Datasets available on Health Parameters and different disease, namely: Breast Cancer, Diabetes Analysis, Heart Disease, Kidney Disease and Liver Disease.
 
 ## Accuracy 
 
