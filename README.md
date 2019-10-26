@@ -1,5 +1,7 @@
 # Vyaadhi
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/864892d251d84ef5b50c4f85a8d302cc)](https://www.codacy.com/manual/HarshCasper/Vyaadhi?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=HarshCasper/Vyaadhi&amp;utm_campaign=Badge_Grade)
+
 This repository consists of the various Jupyter Notebooks that were written to perform analysis on the different Open-Source Datasets available on Health Parameters and different disease, namely: Breast Cancer, Diabetes Analysis, Heart Disease, Kidney Disease and Liver Disease.
 
 ## Accuracy 
